@@ -16,5 +16,12 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        System.out.println("My new code");
+    }
+    
+    @Test
+    public void secondcode()
+    {
+    	System.out.println("My second code");
     }
 }
