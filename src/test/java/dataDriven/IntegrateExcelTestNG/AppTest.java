@@ -24,4 +24,13 @@ public class AppTest
     {
     	System.out.println("My second code");
     }
+    @Test
+    public void thirdcode()
+    {
+    	System.out.println("My third code");
+    }
+    @Test
+    public void fourthcode() {
+    	System.out.println("Fourth code");
+    }
 }
