@@ -33,4 +33,9 @@ public class AppTest
     public void fourthcode() {
     	System.out.println("Fourth code");
     }
+    @Test
+    public void fifthcode()
+    {
+    	System.out.println("fifth code");
+    }
 }
